@@ -1,0 +1,17 @@
+p{
+    background-color: pink;
+    font-family: "Verdana","Dejavu Sans", sans-serif;
+}
+
+.one.even{
+    color: blue;
+    font-size: 36;
+}
+.two.odd{
+    font-size: 24;
+}
+.two.even{
+    background-color: green;
+    font-size: 24;
+    font-weight: bold;
+}
